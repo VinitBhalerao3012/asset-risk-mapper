@@ -4,7 +4,7 @@ An AI-powered GIS tool for water infrastructure asset risk analysis — combinin
 
 Built to replicate the Asset Intelligence workflow used by water utility companies like Severn Trent.
 
-**Live Demo:** [Coming Soon]
+**Live Demo:** [https://asset-risk-mapper-30.streamlit.app](https://asset-risk-mapper-30.streamlit.app)
 
 ---
 
