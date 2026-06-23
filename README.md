@@ -129,37 +129,23 @@ streamlit run app.py
 
 ##  Project Structure
 
+```
 asset-risk-mapper/
-
-├── app.py                  # Main Streamlit application
-
-├── generate_data.py        # Asset dataset generator
-
-├── requirements.txt        # Python dependencies
-
-├── README.md               # Project documentation
-
-├── .gitignore              # Git ignore file
-
-├── assets/                 # Screenshots for README
-
+├── app.py
+├── generate_data.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── assets/
 │   ├── S1-landing-page.png
-
 │   ├── S2-interactive-map.png
-
 │   ├── S3-risk-charts.png
-
 │   ├── S4-ai-zone-report.png
-
 │   ├── S5-asset-drilldown.png
-
 │   ├── S6-qgis-info.png
-
 │   └── S7-qgis-map.png
-
-└── qgis_asset_map.png      # QGIS exported spatial map
-
----
+└── qgis_asset_map.png
+```
 
 ## Author
 
